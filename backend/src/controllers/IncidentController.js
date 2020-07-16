@@ -6,6 +6,7 @@ module.exports = {
     async Create(req, res){
             const {title, description, value} = req.body;
             const ong_id = req.headers.autoriza;
+            console.log(ong_id);
            const [id]=  await connection('incidents').insert({
                 title,
                 description,
