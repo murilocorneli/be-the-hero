@@ -1,2 +1,3 @@
 # be-the-hero
-Backend do projeto criado durante o omnistack11 da Rocketseat
+
+Projeto criado durante a Omnistack11 da Rocketseat.
